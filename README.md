@@ -19,6 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ananiyalegesse&show_icons=true&locale=en&layout=compact" alt="ananiyalegesse" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ananiyalegesse&show_icons=true&locale=en" alt="ananiyalegesse" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananiyalegesse&" alt="ananiyalegesse" /></p>
-
