@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ananiya</h1>
 <h3 align="center">A passionate & dedicated Full-stack developer</h3>
 
-- 🌱 I’m currently learning **alx**
-
 - 👯 I’m looking to collaborate on **any open source project**
 
 - 📫 How to reach me **ananiya.legesse1@gmail.com**
