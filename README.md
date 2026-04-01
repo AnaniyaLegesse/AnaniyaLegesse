@@ -1,6 +1,4 @@
-# 👋 Hello there!
-
-### Full Stack Developer | Software Engineer | AWS Certified
+### 👋 Hello there!
 
 I am a **Full Stack Developer** building scalable applications and interactive user experiences. I’m passionate about clean code, well-documented systems, and pushing the boundaries of the web with 3D technology.
 
